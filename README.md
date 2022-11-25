@@ -1,2 +1,2 @@
 # ANN
-## Developed myy first Artificial Neural Network (ANN) in python
+## Developed my first Artificial Neural Network (ANN) in python
